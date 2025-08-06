@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Yongjia Deng(邓永嘉, she/her/hers). I am a second-year PhD student from[Language and Science Program](https://langsci.wisc.edu/)in University of Wisconsin-Madison, working with [Jacee Cho](https://langsci.wisc.edu/staff/jacee-cho/). I completed my B.A. with distinction in Linguistics at Purdue University in 2024. Having grown up as a Hakka heritage speaker in south-esatern China, I can speak Mandarin Chinese, Hakka, and a little Cantonese.
+Hello! My name is Yongjia Deng(邓永嘉, she/her/hers). I am a second-year PhD student from [Language and Science Program](https://langsci.wisc.edu/) in University of Wisconsin-Madison, working with [Jacee Cho](https://langsci.wisc.edu/staff/jacee-cho/). I completed my B.A. with distinction in Linguistics at Purdue University in 2024. Having grown up as a Hakka heritage speaker in south-esatern China, I can speak Mandarin Chinese, Hakka, and a little Cantonese.
 
 
 
@@ -19,7 +19,9 @@ My research interests lie in are psycholinguistics and Second Language Acquisiti
 Conference Talks
 ======
 “Short” Verb Movement in Gan Hakka, Purdue Spring Undergraduate Research Conference, May 2024
-Animacy Effects and the Production of Relative Clauses in Mandarin: differences between native speakers and heritage speakers, 2023 Fall Undergraduate Fall Expo
+
+Animacy Effects and the Production of Relative Clauses in Mandarin: differences between native speakers and heritage speakers, Undergraduate Fall Expo, Fall 
+
 Animacy Effects and the Production of Passive or Active Relative Clauses, Purdue Spring Undergraduate Research Conference, May 2023
 
 Publications
