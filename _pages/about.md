@@ -12,15 +12,15 @@ Hello! My name is Yongjia Deng(邓永嘉, she/her/hers). I am a second-year PhD 
 
 
 Research Interests
-======
+------
 My research interests lie in are psycholinguistics and Second Language Acquisition(SLA). 
 
 
 Conference Talks
-======
+------
 “Short” Verb Movement in Gan Hakka, Purdue Spring Undergraduate Research Conference, May 2024
 
-Animacy Effects and the Production of Relative Clauses in Mandarin: differences between native speakers and heritage speakers, Undergraduate Fall Expo, Fall 
+Animacy Effects and the Production of Relative Clauses in Mandarin: differences between native speakers and heritage speakers, Undergraduate Fall Expo, Nov 2023
 
 Animacy Effects and the Production of Passive or Active Relative Clauses, Purdue Spring Undergraduate Research Conference, May 2023
 
